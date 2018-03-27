@@ -47,10 +47,13 @@ console台输出的结果
 ![这里写图片描述](https://img-blog.csdn.net/20180325125922502?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2tlMTk1MDUyMzQ5MQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 * **4 查找脚本手册，了解 GameObject，Transform，Component 对象**   
-	第一问： 
- * GameObjects are the fundamental objects in Unity that represent characters, props and scenery.GameObject是由一系列Component组成的，GameObject就说最基本的对象
- * The Transform component determines the Position, Rotation, and Scale of each object in the scene.Transform是Component的一种，Transform储存了GameObject的位置、大小、旋转度等信息  。    
- * Components are the nuts & bolts of objects and behaviors in a game.组件是游戏对象和其对应行为之间的桥梁.Component 主要是被GameObject包含的，用于实现更复杂功能的。
+	第一问：  
+	
+ 	1.GameObjects are the fundamental objects in Unity that represent characters, props and scenery.GameObject是由一系列Component组成的，GameObject就说最基本的对象 . 
+	
+ 	2.The Transform component determines the Position, Rotation, and Scale of each object in the scene.Transform是Component的一种，Transform储存了GameObject的位置、大小、旋转度等信息  。  
+	
+ 	3.Components are the nuts & bolts of objects and behaviors in a game.组件是游戏对象和其对应行为之间的桥梁.Component 主要是被GameObject包含的，用于实现更复杂功能的。
  
  第二问：
  table 对象（实体）的属性有activeSelf 属性，layer属性。
