@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Moon.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Mercury.cs" Line="12" Column="66" />
+      <File FileName="Assets\Scripts\Venus.cs" Line="10" Column="34" />
+      <File FileName="Assets\Scripts\Earth.cs" Line="3" Column="19" />
+      <File FileName="Assets\Scripts\Mars.cs" Line="12" Column="68" />
+      <File FileName="Assets\Scripts\Jupiter.cs" Line="10" Column="42" />
+      <File FileName="Assets\Scripts\Saturn.cs" Line="9" Column="18" />
+      <File FileName="Assets\Scripts\Uranus.cs" Line="12" Column="71" />
+      <File FileName="Assets\Scripts\Neptune.cs" Line="8" Column="36" />
+      <File FileName="Assets\Scripts\Moon.cs" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
