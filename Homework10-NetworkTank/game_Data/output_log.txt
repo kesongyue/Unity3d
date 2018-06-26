@@ -1,0 +1,33 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2013 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\LocalUnityProject\Homework10-NetworkTank\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.132624 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 30e8 -> priority: 1 
+  Thread -> id: 2cdc -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:62081} time {42046}, last rec time {40036} rtt {13} timeout {2000}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
